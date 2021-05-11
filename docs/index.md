@@ -1,4 +1,4 @@
-[biography](./biography), [information theory](./information theory), [non-fiction](./non-fiction), [science](./science)
+[biography](./biography), [fiction](./fiction), [information theory](./information theory), [non-fiction](./non-fiction), [science](./science), [scifi](./scifi)
 
 * <code>May 10, 2021</code> [Rogue Protocol](2021-05-10T21-43-13-rogue-protocol.md)
 * <code>May 03, 2021</code> [Artificial Condition](2021-05-03T21-46-11-artificial-condition.md)
@@ -12,4 +12,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 10 May 2021 21:48:15 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 10 May 2021 21:49:38 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
