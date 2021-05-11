@@ -1,5 +1,8 @@
 [biography](./biography), [information theory](./information theory), [non-fiction](./non-fiction), [science](./science)
 
+* <code>May 10, 2021</code> [Artificial Condition](2021-05-10T21-46-11-artificial-condition.md)
+* <code>May 10, 2021</code> [Rogue Protocol](2021-05-10T21-43-13-rogue-protocol.md)
+
 * <code>Apr 27, 2021</code> [9 Things To Know Before Hiring A Contractor](2021-04-27T22-38-54-9-things-to-know-before-hiring-a-contractor.md)
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 * <code>Apr 11, 2021</code> [The Information](2021-04-11T18-17-33-the-information.md)
@@ -9,4 +12,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 27 Apr 2021 22:40:09 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 10 May 2021 21:46:40 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
