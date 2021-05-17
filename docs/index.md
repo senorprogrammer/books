@@ -1,5 +1,6 @@
 [biography](./biography), [fiction](./fiction), [information theory](./information theory), [non-fiction](./non-fiction), [science](./science), [scifi](./scifi)
 
+* <code>May 17, 2021</code> [Callahan'S Con](2021-05-17T10-54-54-callahan's-con.md)
 * <code>May 10, 2021</code> [Rogue Protocol](2021-05-10T21-43-13-rogue-protocol.md)
 * <code>May 03, 2021</code> [Artificial Condition](2021-05-03T21-46-11-artificial-condition.md)
 
@@ -12,4 +13,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 10 May 2021 21:49:38 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 17 May 2021 10:55:51 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
