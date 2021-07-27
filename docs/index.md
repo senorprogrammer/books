@@ -1,6 +1,7 @@
-[biography](./biography), [fiction](./fiction), [information theory](./information theory), [non-fiction](./non-fiction), [science](./science), [scifi](./scifi)
+[biography](./biography), [fiction](./fiction), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [science](./science), [scifi](./scifi)
 
 * <code>Jul 27, 2021</code> [Artemis](2021-07-27T12-50-36-artemis.md)
+* <code>Jul 19, 2021</code> [Seeing Voices](2021-07-19T15-32-44-seeing-voices.md)
 
 * <code>May 17, 2021</code> [Callahan'S Con](2021-05-17T10-54-54-callahan's-con.md)
 * <code>May 10, 2021</code> [Rogue Protocol](2021-05-10T21-43-13-rogue-protocol.md)
@@ -15,4 +16,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 27 Jul 2021 12:55:33 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Jul 2021 13:09:56 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
