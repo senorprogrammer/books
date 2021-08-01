@@ -6,3 +6,6 @@ tags: scifi
 
 # Project Hail Mary
 
+Any Weird
+
+https://en.wikipedia.org/wiki/Project_Hail_Mary

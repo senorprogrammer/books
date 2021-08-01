@@ -6,3 +6,6 @@ tags: scifi, fiction
 
 # Artificial Condition
 
+* Martha Wells
+
+https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Artificial_Condition

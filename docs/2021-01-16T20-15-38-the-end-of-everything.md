@@ -4,5 +4,7 @@ title: The End of Everything
 tags: science
 ---
 
-# The End of Everything
+# The End 0f Everything
+- Katie Mack
 
+[https://en.wikipedia.org/wiki/The_End_of_Everything:_(Astrophysically_Speaking)](https://en.wikipedia.org/wiki/The_End_of_Everything:_(Astrophysically_Speaking))
