@@ -6,6 +6,6 @@ tags: scifi
 
 # Project Hail Mary
 
-Any Weird
+* Andy Weir
 
 https://en.wikipedia.org/wiki/Project_Hail_Mary
