@@ -6,6 +6,3 @@ tags: science, information theory
 
 # The Information
 
-* James Gleick
-
-https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_FloodS

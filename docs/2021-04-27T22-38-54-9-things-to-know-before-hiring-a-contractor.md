@@ -6,6 +6,3 @@ tags:
 
 # 9 Things To Know Before Hiring A Contractor
 
-* Scott Wadsworth
-
-https://www.goodreads.com/book/show/51803599-9-things-to-know-before-hiring-a-contractor
