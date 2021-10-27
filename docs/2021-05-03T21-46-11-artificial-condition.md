@@ -9,3 +9,12 @@ tags: scifi, fiction
 * Martha Wells
 
 https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Artificial_Condition
+
+<!-- TAGS:START -->
+[scifi](./scifi), [fiction](./fiction)
+<!-- TAGS:END -->
+
+
+<!-- TAGS:START -->
+[scifi](./scifi), [fiction](./fiction)
+<!-- TAGS:END -->

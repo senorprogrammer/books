@@ -9,3 +9,12 @@ tags: scifi
 * Andy Weir
 
 https://en.wikipedia.org/wiki/Project_Hail_Mary
+
+<!-- TAGS:START -->
+[scifi](./scifi)
+<!-- TAGS:END -->
+
+
+<!-- TAGS:START -->
+[scifi](./scifi)
+<!-- TAGS:END -->

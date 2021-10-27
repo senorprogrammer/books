@@ -9,3 +9,12 @@ tags:
 * Scott Wadsworth
 
 https://www.goodreads.com/book/show/51803599-9-things-to-know-before-hiring-a-contractor
+
+<!-- TAGS:START -->
+
+<!-- TAGS:END -->
+
+
+<!-- TAGS:START -->
+
+<!-- TAGS:END -->
