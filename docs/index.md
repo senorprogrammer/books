@@ -1,5 +1,8 @@
 [biography](./biography), [fiction](./fiction), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [science](./science), [scifi](./scifi)
 
+* <code>Dec 07, 2021</code> [Attached](2021-12-07T21-54-47-attached.md)
+* <code>Dec 07, 2021</code> [On Killing](2021-12-07T21-52-09-on-killing.md)
+
 * <code>Oct 27, 2021</code> [Neuromancer](2021-10-27T04-44-47-neuromancer.md)
 
 * <code>Sep 02, 2021</code> [Robot Dreams](2021-09-02T04-51-51-robot-dreams.md)
@@ -21,4 +24,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 27 Oct 2021 04:53:16 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 7 Dec 2021 21:55:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
