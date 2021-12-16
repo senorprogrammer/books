@@ -1,8 +1,9 @@
 [biography](./biography), [crime](./crime), [fiction](./fiction), [financial](./financial), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [russia](./russia), [science](./science), [scifi](./scifi)
 
 * <code>Dec 12, 2021</code> [Red Notice](2021-12-15T21-11-09-red-notice.md)
-* <code>Dec 07, 2021</code> [Attached](2021-12-07T21-54-47-attached.md)
 * <code>Dec 07, 2021</code> [On Killing](2021-12-07T21-52-09-on-killing.md)
+
+* <code>Nov 13, 2021</code> [Attached](2021-11-13T21-54-47-attached.md)
 
 * <code>Oct 27, 2021</code> [Neuromancer](2021-10-27T04-44-47-neuromancer.md)
 
