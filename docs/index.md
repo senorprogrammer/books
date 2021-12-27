@@ -1,5 +1,6 @@
 [biography](./biography), [crime](./crime), [fiction](./fiction), [financial](./financial), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [russia](./russia), [science](./science), [scifi](./scifi)
 
+* <code>Dec 27, 2021</code> [The Psychology Of Money](2021-12-27T10-13-39-the-psychology-of-money.md)
 * <code>Dec 12, 2021</code> [Red Notice](2021-12-15T21-11-09-red-notice.md)
 * <code>Dec 07, 2021</code> [On Killing](2021-12-07T21-52-09-on-killing.md)
 
@@ -26,4 +27,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 15 Dec 2021 22:37:48 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Dec 2021 10:14:19 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
