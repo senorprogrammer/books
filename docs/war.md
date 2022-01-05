@@ -1,6 +1,6 @@
-## financial
+## war
 
 
-* <code>Dec 12, 2021</code> [Red Notice](2021-12-15T21-11-09-red-notice.md)
+* <code>Jan 05, 2022</code> [Allies](2022-01-05T07-33-18-allies.md)
 
 <sup><sub>generated 5 Jan 2022 07:34:00 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
