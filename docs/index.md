@@ -1,4 +1,6 @@
-[biography](./biography), [crime](./crime), [fiction](./fiction), [financial](./financial), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [russia](./russia), [science](./science), [scifi](./scifi), [war](./war)
+[biography](./biography), [canadian](./canadian), [crime](./crime), [fiction](./fiction), [financial](./financial), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [russia](./russia), [science](./science), [scifi](./scifi), [war](./war)
+
+* <code>Feb 17, 2022</code> [Moon Of The Crusted Snow](2022-02-17T22-55-17-moon-of-the-crusted-snow.md)
 
 * <code>Jan 05, 2022</code> [Allies](2022-01-05T07-33-18-allies.md)
 
@@ -29,4 +31,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 5 Jan 2022 07:34:22 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 17 Feb 2022 22:56:57 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
