@@ -2,7 +2,7 @@
 layout: default
 date: 2022-03-19T09:43:57-07:00
 title: The Apollo Murders
-tags: 
+tags: fiction, science fiction
 ---
 
 # The Apollo Murders
