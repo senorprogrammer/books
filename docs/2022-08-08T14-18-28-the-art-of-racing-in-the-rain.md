@@ -2,7 +2,7 @@
 layout: default
 date: 2022-08-08T14:18:28-07:00
 title: The Art Of Racing In The Rain
-tags: 
+tags: fiction
 ---
 
 # The Art Of Racing In The Rain
