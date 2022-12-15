@@ -1,4 +1,6 @@
-[biography](./biography), [canadian](./canadian), [crime](./crime), [fiction](./fiction), [financial](./financial), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [war](./war)
+[biography](./biography), [canadian](./canadian), [crime](./crime), [fiction](./fiction), [financial](./financial), [game design](./game design), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [software development](./software development), [war](./war)
+
+* <code>Dec 15, 2022</code> [Game Programming Patterns](2022-12-15T10-29-50-game-programming-patterns.md)
 
 * <code>Aug 08, 2022</code> [The Art Of Racing In The Rain](2022-08-08T14-18-28-the-art-of-racing-in-the-rain.md)
 
@@ -36,4 +38,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 8 Aug 2022 14:20:19 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 15 Dec 2022 10:30:44 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

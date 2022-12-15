@@ -1,6 +1,8 @@
 ## fiction
 
 
+* <code>Aug 08, 2022</code> [The Art Of Racing In The Rain](2022-08-08T14-18-28-the-art-of-racing-in-the-rain.md)
+
 * <code>Mar 19, 2022</code> [The Apollo Murders](2022-03-19T09-43-57-the-apollo-murders.md)
 
 * <code>Feb 17, 2022</code> [Moon Of The Crusted Snow](2022-02-17T22-55-17-moon-of-the-crusted-snow.md)
@@ -12,4 +14,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 8 Aug 2022 14:20:19 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 15 Dec 2022 10:30:44 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
