@@ -5,4 +5,4 @@
 
 * <code>Jan 16, 2021</code> [The End of Everything](2021-01-16T20-15-38-the-end-of-everything.md)
 
-<sup><sub>generated 2 Jan 2023 17:41:07 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 20 Jan 2023 18:03:41 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
