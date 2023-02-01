@@ -2,7 +2,7 @@
 layout: default
 date: 2023-01-31T18:31:18-08:00
 title: Return To Solitude
-tags: Biography, Autobiography, Humour
+tags: biography, autobiography, humour
 ---
 
 # Return To Solitude
