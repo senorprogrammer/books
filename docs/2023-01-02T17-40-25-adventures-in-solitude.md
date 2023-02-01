@@ -2,7 +2,7 @@
 layout: default
 date: 2023-01-02T17:40:25-08:00
 title: Adventures In Solitude
-tags: 
+tags: biography, autobiography, humour
 ---
 
 # Adventures In Solitude
