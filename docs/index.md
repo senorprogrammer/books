@@ -1,4 +1,6 @@
-[autobiography](./autobiography), [biography](./biography), [canadian](./canadian), [crime](./crime), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [game design](./game design), [humour](./humour), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [software development](./software development), [war](./war)
+[autobiography](./autobiography), [biography](./biography), [canadian](./canadian), [crime](./crime), [economics](./economics), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [game design](./game design), [humour](./humour), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [war](./war)
+
+* <code>Mar 01, 2023</code> [Bullshit Jobs](2023-03-01T21-54-01-bullshit-jobs.md)
 
 * <code>Feb 05, 2023</code> [Neverwhere](2023-02-05T23-47-37-neverwhere.md)
 
@@ -44,4 +46,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 5 Feb 2023 23:49:03 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 1 Mar 2023 21:56:26 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
