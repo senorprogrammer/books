@@ -3,4 +3,4 @@
 
 * <code>Jan 05, 2022</code> [Allies](2022-01-05T07-33-18-allies.md)
 
-<sup><sub>generated 14 May 2023 18:12:42 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Sep 2023 06:24:17 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
