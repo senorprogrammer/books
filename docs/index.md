@@ -1,6 +1,6 @@
 [autobiography](./autobiography), [biography](./biography), [canadian](./canadian), [crime](./crime), [economics](./economics), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [war](./war)
 
-* <code>Sep 27, 2023</code> [The Triumph And Tragedy Of J. Robert Oppenheimer](2023-09-27T06-23-24-the-triumph-and-tragedy-of-j.-robert-oppenheimer.md)
+* <code>Sep 27, 2023</code> [American Prometheus: The Triumph And Tragedy Of J. Robert Oppenheimer](2023-09-27T06-23-24-the-triumph-and-tragedy-of-j.-robert-oppenheimer.md)
 
 * <code>May 14, 2023</code> [Home Land](2023-05-14T18-11-17-home-land.md)
 
