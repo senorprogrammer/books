@@ -1,10 +1,9 @@
 [Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [canadian](./canadian), [crime](./crime), [economics](./economics), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
 
-* <code>Dec 22, 2023</code> [Being Mortal](2024-01-06T21-19-16-being-mortal.md)
-
 * <code>Jan 06, 2024</code> [Opening Closed Guard](2024-01-06T21-19-07-opening-closed-guard.md)
 
-* <code>Dec 30, 2023</code> [Elon Musk](2024-01-06T21-18-47-elon-musk.md)
+* <code>Dec 29, 2023</code> [Elon Musk](2023-12-29T21-18-47-elon-musk.md)
+* <code>Dec 22, 2023</code> [Being Mortal](2023-12-22T21-19-16-being-mortal.md)
 
 * <code>Sep 27, 2023</code> [The Triumph And Tragedy Of J. Robert Oppenheimer](2023-09-27T06-23-24-the-triumph-and-tragedy-of-j.-robert-oppenheimer.md)
 
@@ -57,4 +56,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 6 Jan 2024 21:27:44 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 6 Jan 2024 21:30:35 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
