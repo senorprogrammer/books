@@ -1,5 +1,9 @@
 [Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [canadian](./canadian), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
 
+* <code>May 14, 2024</code> [All Quiet On The Western Front](2024-05-15T08-13-06-all-quiet-on-the-western-front.md)
+
+* <code>Apr 30, 2024</code> [The Great Escape](2024-05-15T08-12-53-the-great-escape.md)
+
 * <code>Jan 23, 2024</code> [The Spy Who Knew Too Much](2024-01-23T16-34-06-the-spy-who-knew-too-much.md)
 * <code>Jan 06, 2024</code> [Opening Closed Guard](2024-01-06T21-19-07-opening-closed-guard.md)
 
@@ -57,4 +61,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 23 Jan 2024 16:35:38 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 15 May 2024 08:20:52 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
