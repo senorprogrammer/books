@@ -3,4 +3,4 @@
 
 * <code>Dec 22, 2023</code> [Being Mortal](2023-12-22T21-19-16-being-mortal.md)
 
-<sup><sub>generated 15 May 2024 08:20:52 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 24 May 2024 16:08:51 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
