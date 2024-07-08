@@ -1,4 +1,6 @@
-[Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [canadian](./canadian), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
+[Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [leadership](./leadership), [management](./management), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
+
+* <code>Jul 07, 2024</code> [The Founder'S Mentality](2024-07-07T21-15-18-the-founder's-mentality.md)
 
 * <code>May 24, 2024</code> [Blod, Sweat, And Chrome](2024-05-24T16-08-06-blod,-sweat,-and-chrome.md)
 * <code>May 14, 2024</code> [All Quiet On The Western Front](2024-05-15T08-13-06-all-quiet-on-the-western-front.md)
@@ -62,4 +64,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 24 May 2024 16:08:51 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 7 Jul 2024 21:19:19 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
