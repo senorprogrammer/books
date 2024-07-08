@@ -1,10 +1,10 @@
 ---
 layout: default
 date: 2024-05-24T16:08:06-07:00
-title: Blod, Sweat, And Chrome
-tags: 
+title: Blood, Sweat, And Chrome
+tags: cinema
 ---
 
-# Blod, Sweat, And Chrome
+# Blood, Sweat, And Chrome
 
 Kyle Buchanan
