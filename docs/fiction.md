@@ -1,6 +1,10 @@
 ## fiction
 
 
+* <code>Aug 26, 2024</code> [The Road](2024-08-26T15-25-22-the-road.md)
+* <code>Aug 24, 2024</code> [The Reluctant Fundamentalist](2024-08-26T15-24-53-the-reluctant-fundamentalist.md)
+* <code>Aug 20, 2024</code> [Eruption](2024-08-26T15-23-37-eruption.md)
+
 * <code>May 14, 2023</code> [Home Land](2023-05-14T18-11-17-home-land.md)
 
 * <code>Mar 16, 2023</code> [419](2023-03-16T08-28-05-419.md)
@@ -22,4 +26,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 7 Jul 2024 21:19:19 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 26 Aug 2024 15:26:26 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
