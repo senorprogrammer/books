@@ -1,6 +1,8 @@
 ## fiction
 
 
+* <code>Sep 21, 2024</code> [Smoke And Mirrors](2024-09-27T12-02-59-smoke-and-mirrors.md)
+
 * <code>Aug 26, 2024</code> [The Road](2024-08-26T15-25-22-the-road.md)
 * <code>Aug 24, 2024</code> [The Reluctant Fundamentalist](2024-08-26T15-24-53-the-reluctant-fundamentalist.md)
 * <code>Aug 20, 2024</code> [Eruption](2024-08-26T15-23-37-eruption.md)
@@ -26,4 +28,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 26 Aug 2024 15:26:26 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Sep 2024 12:04:01 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

@@ -1,4 +1,6 @@
-[Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [leadership](./leadership), [management](./management), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
+[Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [leadership](./leadership), [management](./management), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [short stories](./short stories), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
+
+* <code>Sep 21, 2024</code> [Smoke And Mirrors](2024-09-27T12-02-59-smoke-and-mirrors.md)
 
 * <code>Aug 26, 2024</code> [The Road](2024-08-26T15-25-22-the-road.md)
 * <code>Aug 24, 2024</code> [The Reluctant Fundamentalist](2024-08-26T15-24-53-the-reluctant-fundamentalist.md)
@@ -68,4 +70,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 26 Aug 2024 15:26:26 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Sep 2024 12:04:01 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
