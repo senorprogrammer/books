@@ -1,5 +1,9 @@
-[Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [leadership](./leadership), [management](./management), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [short stories](./short stories), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
+[Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [kids](./kids), [leadership](./leadership), [management](./management), [neuropsychology](./neuropsychology), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [physiology](./physiology), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [short stories](./short stories), [sleep](./sleep), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
 
+* <code>Oct 02, 2024</code> [Why We Sleep](2024-10-02T22-03-26-why-we-sleep.md)
+* <code>Oct 02, 2024</code> [Freezing Order](2024-10-02T22-03-03-freezing-order.md)
+
+* <code>Sep 28, 2024</code> [The Tiger Rising](2024-10-02T22-02-18-the-tiger-rising.md)
 * <code>Sep 21, 2024</code> [Smoke And Mirrors](2024-09-27T12-02-59-smoke-and-mirrors.md)
 
 * <code>Aug 26, 2024</code> [The Road](2024-08-26T15-25-22-the-road.md)
@@ -70,4 +74,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 27 Sep 2024 12:04:01 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 2 Oct 2024 22:04:00 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
