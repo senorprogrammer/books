@@ -7,4 +7,4 @@
 * <code>Jan 02, 2023</code> [Adventures In Solitude](2023-01-02T17-40-25-adventures-in-solitude.md)
 * <code>Jan 21, 2021</code> [Saladin: The Sultan Who Vanquished the Crusaders and Built an Islamic Empire](2021-01-21T01-17-38-saladin.md)
 
-<sup><sub>generated 2 Oct 2024 22:04:00 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 16 Oct 2024 20:21:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
