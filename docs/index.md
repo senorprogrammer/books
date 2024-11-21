@@ -1,5 +1,7 @@
 [Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [adventure](./adventure), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [kids](./kids), [leadership](./leadership), [management](./management), [neuropsychology](./neuropsychology), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [physiology](./physiology), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [short stories](./short stories), [sleep](./sleep), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
 
+* <code>Nov 21, 2024</code> [Legend](2024-11-21T11-18-59-legend.md)
+
 * <code>Oct 29, 2024</code> [Outsider](2024-10-29T21-00-12-outsider.md)
 * <code>Oct 16, 2024</code> [Talking To Strangers](2024-10-16T20-20-59-talking-to-strangers.md)
 * <code>Oct 02, 2024</code> [Why We Sleep](2024-10-02T22-03-26-why-we-sleep.md)
@@ -76,4 +78,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 29 Oct 2024 21:00:34 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 21 Nov 2024 11:19:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

@@ -1,6 +1,8 @@
 ## fiction
 
 
+* <code>Nov 21, 2024</code> [Legend](2024-11-21T11-18-59-legend.md)
+
 * <code>Sep 28, 2024</code> [The Tiger Rising](2024-10-02T22-02-18-the-tiger-rising.md)
 * <code>Sep 21, 2024</code> [Smoke And Mirrors](2024-09-27T12-02-59-smoke-and-mirrors.md)
 
@@ -29,4 +31,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 29 Oct 2024 21:00:34 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 21 Nov 2024 11:19:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
