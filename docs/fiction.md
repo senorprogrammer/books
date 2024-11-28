@@ -1,6 +1,7 @@
 ## fiction
 
 
+* <code>Nov 27, 2024</code> [Waylander](2024-11-27T19-39-57-waylander.md)
 * <code>Nov 21, 2024</code> [Legend](2024-11-21T11-18-59-legend.md)
 
 * <code>Sep 28, 2024</code> [The Tiger Rising](2024-10-02T22-02-18-the-tiger-rising.md)
@@ -31,4 +32,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 21 Nov 2024 11:19:21 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 27 Nov 2024 19:40:14 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
