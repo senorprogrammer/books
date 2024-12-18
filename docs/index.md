@@ -1,5 +1,7 @@
 [Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [adventure](./adventure), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [kids](./kids), [leadership](./leadership), [management](./management), [neuropsychology](./neuropsychology), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [physiology](./physiology), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [short stories](./short stories), [sleep](./sleep), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
 
+* <code>Dec 14, 2024</code> [London Rules](2024-12-17T17-10-36-london-rules.md)
+
 * <code>Nov 27, 2024</code> [Waylander](2024-11-27T19-39-57-waylander.md)
 * <code>Nov 21, 2024</code> [Legend](2024-11-21T11-18-59-legend.md)
 
@@ -79,4 +81,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 27 Nov 2024 19:41:41 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 17 Dec 2024 17:20:45 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
