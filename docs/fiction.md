@@ -1,6 +1,8 @@
 ## fiction
 
 
+* <code>Jan 21, 2026</code> [Moon Of The Turning Leaves](2026-01-21T20-59-55-moon-of-the-turning-leaves.md)
+
 * <code>Dec 14, 2024</code> [London Rules](2024-12-17T17-10-36-london-rules.md)
 
 * <code>Nov 27, 2024</code> [Waylander](2024-11-27T19-39-57-waylander.md)
@@ -34,4 +36,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 17 Dec 2024 17:20:45 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 21 Jan 2026 21:02:07 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
