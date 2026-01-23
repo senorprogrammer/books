@@ -5,8 +5,13 @@ title: The Apollo Murders
 tags: fiction, science fiction
 ---
 
+
 # The Apollo Murders
 
 Chris Hadfield
 
 [https://www.goodreads.com/book/show/57007683-the-apollo-murders](https://www.goodreads.com/book/show/57007683-the-apollo-murders)
+
+[fiction](./fiction), [science fiction](./science fiction)
+
+<sup><sub>generated 23 Jan 2026 15:25:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>

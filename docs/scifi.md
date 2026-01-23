@@ -1,6 +1,5 @@
 ## scifi
 
-
 * <code>Oct 27, 2021</code> [Neuromancer](2021-10-27T04-44-47-neuromancer.md)
 
 * <code>Sep 02, 2021</code> [Robot Dreams](2021-09-02T04-51-51-robot-dreams.md)
@@ -14,4 +13,4 @@
 
 * <code>Apr 17, 2021</code> [All Systems Red](2021-04-17T20-45-05-all-systems-red.md)
 
-<sup><sub>generated 21 Jan 2026 21:02:07 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 23 Jan 2026 15:25:18 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
