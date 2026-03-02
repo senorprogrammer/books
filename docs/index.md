@@ -1,4 +1,6 @@
 [Biography](./Biography), [Death](./Death), [Jiu jitsu](./Jiu jitsu), [Mortality](./Mortality), [adventure](./adventure), [autobiography](./autobiography), [biography](./biography), [business](./business), [canadian](./canadian), [cinema](./cinema), [crime](./crime), [economics](./economics), [espionage](./espionage), [fantasy](./fantasy), [fiction](./fiction), [financial](./financial), [fraud](./fraud), [game design](./game design), [humour](./humour), [information theory](./information theory), [kids](./kids), [leadership](./leadership), [management](./management), [neuropsychology](./neuropsychology), [neuroscience](./neuroscience), [non-fiction](./non-fiction), [nonfiction](./nonfiction), [physiology](./physiology), [programming](./programming), [psychology](./psychology), [russia](./russia), [science](./science), [science fiction](./science fiction), [scifi](./scifi), [short stories](./short stories), [sleep](./sleep), [sociology](./sociology), [software development](./software development), [technology](./technology), [war](./war)
+* <code>Mar 01, 2026</code> [The Best of All Worlds](2026-03-01T19-31-10-the-best-of-all-worlds.md)
+
 * <code>Jan 21, 2026</code> [Moon Of The Turning Leaves](2026-01-21T20-59-55-moon-of-the-turning-leaves.md)
 
 * <code>Dec 14, 2024</code> [London Rules](2024-12-17T17-10-36-london-rules.md)
@@ -82,4 +84,4 @@
 * <code>Jan 10, 2021</code> [The Skin We're In](2021-01-10T16-54-31-the-skin-we're-in.md)
 
 
-<sup><sub>generated 23 Jan 2026 15:49:43 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
+<sup><sub>generated 1 Mar 2026 19:32:02 by <a href='https://github.com/senorprogrammer/til'>til</a></sub></sup>
