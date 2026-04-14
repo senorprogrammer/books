@@ -1,5 +1,7 @@
 ## fiction
 
+* <code>Apr 13, 2026</code> [The Gathering](2026-04-13T17-04-12-the-gathering.md)
+
 * <code>Jan 21, 2026</code> [Moon Of The Turning Leaves](2026-01-21T20-59-55-moon-of-the-turning-leaves.md)
 
 * <code>Dec 14, 2024</code> [London Rules](2024-12-17T17-10-36-london-rules.md)
